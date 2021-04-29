@@ -1,0 +1,82 @@
+name: number_trivia
+description: A new Flutter application.
+
+
+
+publish_to: 'none'
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  equatable: ^2.0.0
+  flutter_riverpod: ^0.14.0+1
+  retrofit: ^1.3.4+1
+  logger: any
+
+
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  retrofit_generator: any
+  build_runner: any
+
+
+
+
+
+flutter:
+
+
+
+
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
